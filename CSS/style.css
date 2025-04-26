@@ -22,7 +22,7 @@ body {
 
 /* Desain tampilan header */
 header {
-  background-image: var(--gradient-bg);
+  background: var(--gradient-bg);
   color: white;
   padding: 80px 20px;
   text-align: center;
